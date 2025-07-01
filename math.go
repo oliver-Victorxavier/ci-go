@@ -8,5 +8,5 @@ func Soma(a int, b int) int {
 
 func main() {
 	resultado := Soma(5, 3)
-	fmt.Printf("Resultado da soma: %d\n", resultado)
+	fmt.Printf("Resultado da soma é: %d\n", resultado)
 }
