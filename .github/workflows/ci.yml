@@ -33,4 +33,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: oliver-Victorxavier/ci-go:latest
+          tags: victorxavie/ci-go:latest
